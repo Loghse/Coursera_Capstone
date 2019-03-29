@@ -11,5 +11,5 @@ Following courses were attended as a part of IBM data science professional certi
 8. Machine learning with python
 9. Capstone project
 
-Capstone project
+Capstone project <br>
 Three assignments to apply acquired data science and machine learning skills.
